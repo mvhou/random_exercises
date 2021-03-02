@@ -1,0 +1,13 @@
+body {
+	background-color:darkcyan;
+}
+
+.answer_header {
+	text-align: center;
+	font-weight: bold;
+	font-family: verdana;
+}
+.answer {
+	text-align: center;
+	font-family: verdana;
+}
